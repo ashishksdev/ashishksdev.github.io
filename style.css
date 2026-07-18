@@ -27,7 +27,7 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 1.5rem 10%;
+    padding: 1.5rem 3%;
     background-color: #ffffff;
     border-bottom: 1px solid var(--border-color);
     position: sticky;
